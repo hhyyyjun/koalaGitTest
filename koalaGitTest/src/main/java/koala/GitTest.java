@@ -1,5 +1,7 @@
 package koala;
 
 public class GitTest {
-	//Л╫■Л∙▄К²╪ Й╧┐ М┘▄Л┼╓М┼╦
+//гоюл╥Г
+	//╡ы©м©м©у
+	
 }
